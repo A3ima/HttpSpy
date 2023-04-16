@@ -1,4 +1,3 @@
-
 --[[ HttpSpy v1.1.3 ]]--
 assert(syn or http, "Unsupport exploit (should support syn.request or http.request)")
 
