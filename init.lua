@@ -108,7 +108,6 @@ if request then
     replaceclosure(request, reqfunc);
 end;
 
--- Implement the API using metatables
 local API = {};
 API.OnRequest = OnRequest.Event;
 
